@@ -20,8 +20,8 @@ You can **add**, **view**, **delete**, and **save** your tasks easily via a user
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abdullah-tarek-dev/ToDoList-with-csharp.git
+cd ToDoList-with-csharp
 
 
 2. Run the App
