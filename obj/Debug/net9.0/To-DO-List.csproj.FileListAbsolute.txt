@@ -1,0 +1,14 @@
+D:\2026\backend\c#\To-DO-List\bin\Debug\net9.0\To-DO-List.exe
+D:\2026\backend\c#\To-DO-List\bin\Debug\net9.0\To-DO-List.deps.json
+D:\2026\backend\c#\To-DO-List\bin\Debug\net9.0\To-DO-List.runtimeconfig.json
+D:\2026\backend\c#\To-DO-List\bin\Debug\net9.0\To-DO-List.dll
+D:\2026\backend\c#\To-DO-List\bin\Debug\net9.0\To-DO-List.pdb
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.AssemblyInfoInputs.cache
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.AssemblyInfo.cs
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.csproj.CoreCompileInputs.cache
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.dll
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\refint\To-DO-List.dll
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.pdb
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\To-DO-List.genruntimeconfig.cache
+D:\2026\backend\c#\To-DO-List\obj\Debug\net9.0\ref\To-DO-List.dll
